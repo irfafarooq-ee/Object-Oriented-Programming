@@ -17,14 +17,23 @@ The programs included here demonstrate practical implementations of core OOP ide
 Object-Oriented-Programming
 
 ├── Solved Labs/
+
 │ ├── Lab1/
+
 │ ├── Lab2/
+
 │ └── ...
+
 ├── OOP Practice/
+
 │ ├── Example1.cpp
+
 │ ├── Example2.cpp
+
 │ └── ...
+
 ├── .gitattributes
+
 └── README.md
 
 - **Solved Labs/** – Contains structured implementations of object-oriented programming concepts.
